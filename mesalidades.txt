@@ -1,0 +1,6 @@
+Prezador(a) $nome,
+    Gostaríamos de informá-lo que seus canais de IPTV estão prestes a vencer $data. Para garantir que você continue desfrutando de todos os seus conteúdos preferidos 
+sem interrupções, oferecemos uma opção de renovação.
+    Se desejar renovar o serviço, entre em contato conosco para saber mais sobre os pacotes disponíveis e o valor da renovação $valor . Estamos à disposição para 
+atender sua solicitação e garantir a continuidade do seu acesso!
+    Agradecemos pela sua preferência e esperamos continuar atendendo você da melhor forma possível.
