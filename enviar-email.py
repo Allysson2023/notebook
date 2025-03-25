@@ -15,7 +15,7 @@ CAMINHO_HTML = pathlib.Path(__file__).parent / 'pages/email.html'
 
 
 
-remetente = os.getenv('FROM_EMAIL', '')
+remetente = os.getenv('MEU_EMAIL', '')
 destinatario = remetente
 
 # Conf SMTP
@@ -30,7 +30,7 @@ smtp_password = os.getenv('EMAIL_PASSWORD', '')
 with open(CAMINHO_HTML, 'r', encoding='utf-8') as arquivo:
     texto_arquivo = arquivo.read()
     template = Template(texto_arquivo)
-    text_email = template.substitute(nome= 'Allysson')
+    text_email = template.substitute(nome= 'Ari')
 
 
 

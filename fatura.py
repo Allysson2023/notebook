@@ -13,13 +13,11 @@ html = """
 <body>
     <h1>Fatura</h1>
     <p>Cliente: João Silva</p>
-    <p>Valor: R$ 150,00</p>
+    <p>Valor: R$ 650,00</p>
     <p>Vencimento: 30/03/2025</p>
-    <p>Observações: Essa Fatura é da Internet VPN </p>
+    <p>Observações: ... </p>
     
-MEU_EMAIL  = 'allyssoncarlos.ac21@gmail.com'
-FROM_EMAIL = "allysson2025devfullstack.@gmail.com"
-EMAIL_PASSWORD = "jwtqtbnteivfwdze"
+
 </body>
 </html>
 """
